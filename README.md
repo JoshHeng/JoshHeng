@@ -1,3 +1,6 @@
+
+![CodersRank Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=JoshHeng&badges=3&show-avatar=true)
+
 ### Hi there 👋
 
 I'm [Josh Heng](https://www.joshheng.co.uk), a passionate and innovative programmer based in the UK.
