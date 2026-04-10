@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I'm [Josh Heng](https://www.joshheng.co.uk), a passionate and innovative programmer based in the UK.
+I'm [Josh Heng](https://www.joshheng.co.uk).
 
 - 🌐 www.joshheng.co.uk
 - 📫 enquiries@joshheng.co.uk
